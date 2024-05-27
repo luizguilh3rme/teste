@@ -1,0 +1,42 @@
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\appsettings.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Controle de contato.staticwebassets.runtime.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Controle de contato.exe
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Controle de contato.deps.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Controle de contato.runtimeconfig.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Controle de contato.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Controle de contato.pdb
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Humanizer.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\MySqlConnector.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\bin\Release\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.csproj.AssemblyReference.cache
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.AssemblyInfoInputs.cache
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.AssemblyInfo.cs
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.csproj.CoreCompileInputs.cache
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.RazorAssemblyInfo.cache
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.RazorAssemblyInfo.cs
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.sourcelink.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\staticwebassets\msbuild.Controle de contato.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\staticwebassets\msbuild.build.Controle de contato.props
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Controle de contato.props
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Controle de contato.props
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\scopedcss\bundle\Controle de contato.styles.css
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\scopedcss\projectbundle\Controle de contato.bundle.scp.css
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.csproj.CopyComplete
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\refint\Controle de contato.dll
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.pdb
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\Controle de contato.genruntimeconfig.cache
+C:\Users\Uilson\Desktop\Controle de Alunos\Controle de contato\obj\Release\net8.0\ref\Controle de contato.dll

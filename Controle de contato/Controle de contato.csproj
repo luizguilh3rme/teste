@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Controle_de_contato</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Imagens\8573556-vibrante-rosa-e-azul-v-letra-logo-conceito-criativo-minimal-monocromatico-monograma-com-linhas-e-impressao-padrao-padrao-vetor.jpg" />
+    <Content Remove="wwwroot\Imagens\letra-logotipo-plano-fundo-branco-simples-minimo_959624-199.avif" />
+    <Content Remove="wwwroot\Imagens\logotipo_da_nike.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Imagens\8573556-vibrante-rosa-e-azul-v-letra-logo-conceito-criativo-minimal-monocromatico-monograma-com-linhas-e-impressao-padrao-padrao-vetor.jpg" />
+    <None Include="wwwroot\Imagens\letra-logotipo-plano-fundo-branco-simples-minimo_959624-199.avif" />
+    <None Include="wwwroot\Imagens\logotipo_da_nike.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Usuario\Criar.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
